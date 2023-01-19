@@ -1,6 +1,6 @@
 # Resolução das Questões do Capítulo 2 - Fundamentos
 
-### Questão 8:
+### Questão 1:
     Descreva o papel do programador e o do usuário em relação a construção, utilização, alterações, 
     análise dos resultados e entrada dos dados de um programa.
  
@@ -43,7 +43,7 @@
 ### Questão 3:
     Faça um algoritmo que calcule a média de quatro números introduzidos pelo usuário.
  
-### Resolução: [Clique Aqui]()
+### Resolução: [Clique Aqui](https://github.com/Luca-Sousa/Logica-de-Programacao/blob/main/Livro%20Algoritmo%20e%20Programac%C3%A3o%20-%20Estudo%20Completo/Capitulo-02/Exercicio-Capitulo-3.c)
 
 ***
 
@@ -52,7 +52,7 @@
     Faça um algoritmo que receba a temperatura em graus Celsius e apresente-a em graus Fahrenheit, 
     de acordo com a fórmula °F = (1.8 °C) + 32.
 
-### Resolução: [Clique Aqui]()
+### Resolução: [Clique Aqui](https://github.com/Luca-Sousa/Logica-de-Programacao/blob/main/Livro%20Algoritmo%20e%20Programac%C3%A3o%20-%20Estudo%20Completo/Capitulo-02/Exercicio-Capitulo-4.c)
 
 ***
 
@@ -60,4 +60,4 @@
     Faça um algoritmo que leia um número de 4 dígitos e escreva-o invertido.
     Por exemplo, se o número lido for 2548, o resultado será 8452.
 
-### Resolução: [Clique Aqui]()
+### Resolução: [Clique Aqui](https://github.com/Luca-Sousa/Logica-de-Programacao/blob/main/Livro%20Algoritmo%20e%20Programac%C3%A3o%20-%20Estudo%20Completo/Capitulo-02/Exercicio-Capitulo-5.c)
